@@ -14,7 +14,7 @@ FEATURES
 Clear and concise insights.
 Visualizations: Bar charts, piecharts and KPIs
 
-Key Insights:
+INSIGHTS:
 The campaign had a total conversion rate of 2.52%, a healthy conversion for its niche.
 Ads performed better than PSA with a margin of 0.77%.
 Monday had the most conversions.
@@ -33,6 +33,7 @@ Kaggle
 RECOMMENDATIONS
 Ads should be the default campaign method, since it has proved to be more effective relative to PSA
 Ads should be rolled out on Mondays especially and it has proven to have the most conversions
+
 CONTACT ME @
 
 LinkedIn: www.linkedin.com/in/bako-naanlong-b61450279 Email: naanlongb@gmail.com
