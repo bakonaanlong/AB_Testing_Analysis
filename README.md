@@ -11,28 +11,29 @@ This repository contains a dashboard analyzing Perfomance of two Campaign Method
 
 FEATURES
 
-Clear and concise insights.
-Visualizations: Bar charts, piecharts and KPIs
+- Clear and concise insights.
+- Visualizations: Bar charts, piecharts and KPIs
 
-INSIGHTS:
-The campaign had a total conversion rate of 2.52%, a healthy conversion for its niche.
-Ads performed better than PSA with a margin of 0.77%.
-Monday had the most conversions.
+INSIGHTS
+
+- The campaign had a total conversion rate of 2.52%, a healthy conversion for its niche.
+- Ads performed better than PSA with a margin of 0.77%.
+- Monday had the most conversions.
 
 TECHNOLOGIES USED
 
-Ms Excel for Cleaning and Preprocessing the data
-SnowSQL for data aggregation
-My Brain for brainstorming
-Ms Excel for Visualization
+- Ms Excel for Cleaning and Preprocessing the data
+- SnowSQL for data aggregation
+- My Brain for brainstorming
+- Ms Excel for Visualization
 
 DATA SOURCE
 
-Kaggle
+- Kaggle
 
 RECOMMENDATIONS
-Ads should be the default campaign method, since it has proved to be more effective relative to PSA
-Ads should be rolled out on Mondays especially and it has proven to have the most conversions
+- Ads should be the default campaign method, since it has proved to be more effective relative to PSA
+- Ads should be rolled out on Mondays especially and it has proven to have the most conversions
 
 CONTACT ME @
 
