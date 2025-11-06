@@ -1,8 +1,6 @@
-# A/B Testing Analysis Dashboard README  
+# A/B Testing Analysis Dashboard  
 **Testing Effectiveness Between PSA and Ads**  
-*Prepared for: Bako Naanlong*  
-*Document Version: 1.0*  
-*Date: November 06, 2025*
+
 
 ---
 
@@ -39,12 +37,6 @@ This dashboard presents the results of an A/B test comparing the conversion perf
 | **PSA Conversion Donut** | Categorical | `psa_yes`, `psa_no` | Variant-level | ~1.78% "Yes", ~98.22% "No" |
 | **Daily Conversion Bar** | Time-series | `day_of_week`, `daily_conversions` | Day-level | Sunday highest; Saturday lowest |
 
-### Calculated Metrics  
-- **Lift (Ads over PSA)**:  
-  \[
-  \text{Lift} = \frac{2.55\% - 1.78\%}{1.78\%} = 43.26\%
-  \]  
-- **Statistical Significance**: Not displayed (requires p-value; recommend follow-up analysis).
 
 ---
 
@@ -105,12 +97,7 @@ This dashboard presents the results of an A/B test comparing the conversion perf
 | 5 | **Run statistical significance test** (chi-square or t-test) on full dataset | Data Science | Medium | Within 3 days |
 | 6 | **Monitor Saturday performance post-changes**; consider exclusion if uplift < 1.0% | Media Team | Low | Ongoing |
 
-### Success Metrics (Post-Implementation)  
-- **Target Overall Conversion Rate**: ≥ **2.70%**  
-- **Minimum Ads Conversion Rate**: ≥ **2.80%**  
-- **Sunday Conversion Share**: ≥ **25%** of weekly total  
+
 
 ---
 
-**End of Document**  
-*For questions or data access, contact the Analytics Team.*
